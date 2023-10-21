@@ -1,0 +1,42 @@
+body{
+    background-color: bisque;
+}
+
+.container{
+    background-color: rgb(236, 232, 231);
+    height: 30vw;
+    width: 22vw;
+    margin: 2vw 40vw;
+    /*background-image: url(https://images.unsplash.com/photo-1621184455862-c163dfb30e0f?auto=format&fit=crop&q=60&w=600&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZmFzaGlvbiUyMGdpcmx8ZW58MHx8MHx8fDA%3D)*/;
+}
+
+.container img{
+    object-fit: cover;
+    height: 20vw;
+    width: 15vw;
+    padding-top: 1vw;
+    padding-left: 2.8vw;
+}
+
+.container h4{
+    font-size: 1.5em;
+    padding-top: 0.1vw;
+    text-align: center;
+    margin-top: 1px;
+    margin-left: 2px;
+    margin-bottom: 10px;
+}
+
+.container button{
+    width: 8vw;
+    height: 2vw;
+    margin-top: 0.1vw;
+    margin-left: 7vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn{
+    margin-top: 1px;
+}
